@@ -3,7 +3,8 @@
 #### Follow the steps to use this starter
 
 Simple with the IDE in the web:  
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/github/SaschaBrunnerCH/arcgisjsapi-vite-ts-starter)
+[<img src="https://developer.stackblitz.com/img/open_in_stackblitz.svg" width="150">](https://stackblitz.com/github/SaschaBrunnerCH/arcgisjsapi-vite-ts-starter) [<img src="https://codesandbox.io/static/img/play-codesandbox.svg" width="140">](https://codesandbox.io/s/github/SaschaBrunnerCH/arcgisjsapi-vite-ts-starter)
+
 
 or locally with the following steps:
 
