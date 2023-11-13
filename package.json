@@ -10,10 +10,10 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "typescript": "^4.6.4",
-    "vite": "^3.2.1"
+    "typescript": "^5.0.2",
+    "vite": "^4.4.5"
   },
   "dependencies": {
-    "@arcgis/core": "^4.24.7"
+    "@arcgis/core": "^4.28.9"
   }
 }

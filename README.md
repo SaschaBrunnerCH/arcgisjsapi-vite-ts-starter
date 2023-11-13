@@ -45,7 +45,7 @@ Steps to create this starter project:
 6. Change the `style.css` to:
 
    ```css
-   @import url("https://js.arcgis.com/4.24/@arcgis/core/assets/esri/themes/light/main.css");
+   @import url("https://js.arcgis.com/4.28/@arcgis/core/assets/esri/themes/light/main.css");
    html,
    body,
    #viewDiv {
